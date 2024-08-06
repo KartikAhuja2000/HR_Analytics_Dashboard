@@ -43,3 +43,5 @@ Role-Specific Strategies: Investigate and address the high attrition rates in La
 Early Tenure Attrition: Improve onboarding and early career support to reduce first-year turnover.
 Education-Specific Insights: Explore reasons behind high attrition in Life Sciences and Medical backgrounds, and develop targeted retention programs.
 By analyzing these detailed insights, HR can devise more effective strategies to reduce attrition, improve employee satisfaction, and enhance overall organizational stability.
+
+![HR Analytics Dashboard](https://github.com/user-attachments/assets/c413c35d-34c1-4380-a21e-191d58d134e1)
